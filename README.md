@@ -1,2 +1,2 @@
 # projectA
-Good stuff
+DATA information (training)
